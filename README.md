@@ -36,19 +36,12 @@
 ---
 
 ## 📌 Featured Work
-- 🤖 **[Project Name](#)** — short value-based description  
-- 📊 **[Project Name](#)** — what problem it solves  
-- ⚙️ **[Project Name](#)** — tech + impact  
+- 🤖 **Heart-Disease-Prediction** — https://heart-disease-prediction-myf0.onrender.com  
+ 
 
-(Add real links. Don’t lie.)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
 ---
 
