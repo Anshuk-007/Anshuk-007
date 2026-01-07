@@ -54,6 +54,6 @@
 
 ## 📬 Connect With Me
 <p>
-  <a href="www.linkedin.com/in/chaturvedi-anshuk7"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-  <a href="chaturvedianshuk@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/chaturvedi-anshuk7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="mailto:chaturvedianshuk@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"/></a>
 </p>
