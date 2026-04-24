@@ -36,7 +36,8 @@
 ---
 
 ## 📌 Featured Work
-- 🤖 **Heart-Disease-Prediction** — https://heart-disease-prediction-myf0.onrender.com  
+- ❤️ **Heart-Disease-Prediction** — https://heart-disease-prediction-myf0.onrender.com
+- 🤖 **HADES** - https://hades-client.onrender.com
  
 
 
