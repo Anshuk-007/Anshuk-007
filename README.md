@@ -18,15 +18,6 @@
 
 ---
 
-## 💼 Experience
-
-**AI Researcher & Project Management Intern — Responsible AI Foundation** *(Remote, Jun 2026 – Jul 2026)*
-- Reviewed 20+ papers on LLM safety and AI alignment, and built a literature review template that cut per-paper documentation time by 30%
-- Led task allocation and requirements across 2 end-to-end AI research projects, worked on backend, validated APIs with Postman, and delivered MVPs to leadership
-- Evaluated 100+ AI tools and frameworks, and the findings shaped 2 project MVPs
-
----
-
 ## 🚀 Tech Stack
 
 ### 🧠 AI / ML
@@ -73,12 +64,6 @@
 
 ---
 
-## 🏅 Certifications
-- Complete Generative AI Course with LangChain and Hugging Face — Udemy (Apr 2026)
-- Complete A.I. and Machine Learning, Data Science Bootcamp — Udemy (Jan 2026)
-- Data Analysis with Python — IBM, Coursera (Aug 2026)
-
----
 
 ### ✍️ Random Dev Quote
 <p align="center">
