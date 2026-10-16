@@ -9,7 +9,7 @@
 ---
 
 ## 🎯 About Me
-- 🎓 Final-year B.Tech CSE @ **KIIT, Bhubaneswar** (CGPA 8.56 / 10, 2023–2027)
+- 🎓 Final-year B.Tech CSE @ **KIIT, Bhubaneswar**
 - 🧠 Learning and building in **AI / ML / GenAI / NLP**
 - 🐍 Comfortable with **Python • Java • C**
 - 🔧 Work mostly in **Jupyter, VS Code, GitHub, Colab**
